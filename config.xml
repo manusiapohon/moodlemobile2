@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.smart.moodlemobile" version="3.4.0">
-  <name>LMS SMART Mobile</name>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.smart.lmsmobile" version="3.4.0">
+  <name>LMS SMART-BC Mobile</name>
   <description>
-        LMS SMART Mobile official app
+        LMS SMART-BC Mobile official app
     </description>
-  <author href="http://moodle.com" email="trimans.yogiana@smkn1-cmi.sch.id">
+  <author href="http://www.smart-bc.net/" email="trimans.yogiana@smkn1-cmi.sch.id">
         Trimans Yogiana
     </author>
   <content src="index.html"/>
